@@ -1,21 +1,7 @@
-hola
-mundo
-cruel
-<html>
-hol.txt.txt
-pritter
-
-hola
-
-fresas
-kill
-git
-por dios
-que paso
-
-tengo dudas
-
-trabajo git
-
-<espero estar bien>
+jose
+eulices
+prada
+moreno
+35
+años
 
