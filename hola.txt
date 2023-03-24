@@ -1,0 +1,23 @@
+[33mcommit eaf1d7c54e241026bf1c5eeb18dd8c11ae8f5400[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: jose prada <secilue@hotmail.com>
+Date:   Wed Mar 22 20:13:11 2023 -0500
+
+    se agrego nomebre y edad
+
+[33mcommit 188486a1a34f93a5eb3b28cfc0080a37c91ad948[m
+Author: jose prada <secilue@hotmail.com>
+Date:   Wed Mar 22 20:12:39 2023 -0500
+
+    se agrego nomebre y edad
+
+[33mcommit 8f81f7dcd447b5ea21d4b126820227712ec072c2[m
+Author: jose prada <secilue@hotmail.com>
+Date:   Wed Mar 22 19:37:53 2023 -0500
+
+     se adiciono mas detalles al saludo
+
+[33mcommit 15f4db96d6fdc78069e9632dce1594bc3b8cb9cc[m
+Author: jose prada <secilue@hotmail.com>
+Date:   Wed Mar 22 19:32:11 2023 -0500
+
+    se adiciono el archivo hola.txt.txt
